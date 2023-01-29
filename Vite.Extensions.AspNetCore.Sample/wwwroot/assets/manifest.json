@@ -1,0 +1,18 @@
+{
+  "src/pages/VueSample.vue": {
+    "file": "assets/VueSample-82e4c778.js",
+    "src": "src/pages/VueSample.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.ts"
+    ]
+  },
+  "src/main.ts": {
+    "file": "assets/main-29d4f0eb.js",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/VueSample.vue"
+    ]
+  }
+}
